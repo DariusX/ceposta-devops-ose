@@ -83,7 +83,7 @@ our integrations. For the demo, we're using a simple REST based integration proj
 multiple containers as well as enlist itself into the API registry. From there you can choose to discover and bind to
 one of the endpoints at runtime or loadbalance against the endpoint collection.
 
-You cuuld even bring up an HTTP gateway to do the auto discovery.
+You could even bring up an HTTP gateway to do the auto discovery.
 
 For this demo, however, we're going to be deploying our Fuse projects onto [OpenShift][openshift], a 
 PaaS supporting multiple technology stacks, including Fuse. 
