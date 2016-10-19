@@ -20,7 +20,7 @@ and docker containers.
     $PROJ_ROOT/bootstrap/build_docker_images.sh
     
 This script will automate building all of the docker images required for this project. It will either pull them
-from their respective repos or build them.
+from their respective repos or build them. [Why do we build some and pull others?]
 
 
     $PROJ_ROOT/bootstrap/run-docker.sh
