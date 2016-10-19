@@ -74,7 +74,7 @@ See [this guide for setting up Nexus as a Docker container and any manual steps 
 ## Jenkins
 
 You may wish to set up additional features (like email proxy, or user accounts), so for a complete guide,
-see [the guide for setting up Jenkins as a Docker contianer for this demo](set-up-jenkins.md)
+see [the guide for setting up Jenkins as a Docker container for this demo](set-up-jenkins.md)
 
 
 ## JBoss Fuse
