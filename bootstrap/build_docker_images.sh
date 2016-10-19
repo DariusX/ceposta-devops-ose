@@ -36,7 +36,7 @@ fi
 echo "Building the docker images in $APP_BASE"
 
 echo "building the Docker image for gerrit"
-docker build -t fabric8:gerrit $APP_BASE/gerrit-docker
+docker build -t fabric8:gerrit $APP_BASE/gerrit-docker/src/main/docker/gerrit
 
 echo "building the Docker image for jenkins"
 docker build -t fabric8:jenkins $APP_BASE/jenkins-docker
