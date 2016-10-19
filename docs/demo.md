@@ -62,7 +62,7 @@ Then save it and commit to git:
 
     git commit -a -m 'changed author'
     
-At this point, we should make sure that the gerrit commit hoook added a `change-id` as this is how gerrit groups
+At this point, we should make sure that the gerrit commit hook added a `change-id` as this is how gerrit groups
 changes:
 
     
